@@ -1,3 +1,0 @@
-source build/envsetup.sh
-lunch twrp_boston-eng
-mka recoveryimage -j$(nproc --all)
